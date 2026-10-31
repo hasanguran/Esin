@@ -83,12 +83,12 @@ Her ürün listeleyen bölümde: görsel oranı, hover efekti, rozet stili, sepe
 
 ---
 
-## 6. Bir tema, üç görünüm · One theme, three looks
+## 6. 3 hazır stil · 3 ready styles
 
-Herhangi bir bölüm → Yazı ve buton stili → Tema havası. Font, harf, köşe ve buton birlikte değişir.
-*One setting changes fonts, letter case, corners and buttons together.*
+Herhangi bir bölüm → Yazı ve buton stili → Tema havası. Seçilen stil başlık fontunu, harf biçimini, köşe yuvarlaklığını ve buton şeklini birlikte değiştirir; tüm mağaza ya da tek bölüm için.
+*Each style changes heading font, letter case, corners and button shape together — for the whole store or one section.*
 
-![Üç görünüm](images/uc-gorunum.png)
+![3 hazır stil](images/uc-gorunum.png)
 
 ---
 
