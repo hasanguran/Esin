@@ -57,7 +57,7 @@ Renk kodu girilmezse renk seçeneği gri görünür:
 ## 3. Shop the look (kombin)
 
 Editörde ürün seçilir, konumu yüzde olarak girilir (x 64 / y 88); hotspot fotoğrafta o noktada görünür. "Tüm kombini ekle" tüm ürünleri sepete ekler.
-*Pick a product, slide it into place. 64 % / 88 % is exactly where the dot sits.*
+*Pick a product and enter its position in % (x 64 / y 88); the hotspot appears at that spot. "Add the whole look" adds every item to the cart.*
 
 ![Shop the look](images/editor-03-kombin-noktasi.png)
 
